@@ -14,6 +14,7 @@
 		1C0861EE19DA4F9200E9DDC1 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1C0861EC19DA4F9200E9DDC1 /* LaunchScreen.xib */; };
 		1C0861FA19DA4F9200E9DDC1 /* Postcard2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C0861F919DA4F9200E9DDC1 /* Postcard2Tests.swift */; };
 		1C08620419DA50DE00E9DDC1 /* SagradaFamilia.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1C08620319DA50DE00E9DDC1 /* SagradaFamilia.jpeg */; };
+		1C85178419DBA3AD00B23907 /* MenuImage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1C85178319DBA3AD00B23907 /* MenuImage.jpg */; };
 		1CD2E8BE19DA6D2E00FE65D3 /* AlbertEinsteinStamp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1CD2E8BD19DA6D2E00FE65D3 /* AlbertEinsteinStamp.jpg */; };
 /* End PBXBuildFile section */
 
@@ -39,6 +40,7 @@
 		1C0861F819DA4F9200E9DDC1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1C0861F919DA4F9200E9DDC1 /* Postcard2Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Postcard2Tests.swift; sourceTree = "<group>"; };
 		1C08620319DA50DE00E9DDC1 /* SagradaFamilia.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SagradaFamilia.jpeg; sourceTree = "<group>"; };
+		1C85178319DBA3AD00B23907 /* MenuImage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = MenuImage.jpg; sourceTree = "<group>"; };
 		1CD2E8BD19DA6D2E00FE65D3 /* AlbertEinsteinStamp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AlbertEinsteinStamp.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -94,6 +96,7 @@
 		1C0861E119DA4F9200E9DDC1 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				1C85178319DBA3AD00B23907 /* MenuImage.jpg */,
 				1CD2E8BD19DA6D2E00FE65D3 /* AlbertEinsteinStamp.jpg */,
 				1C08620319DA50DE00E9DDC1 /* SagradaFamilia.jpeg */,
 				1C0861E219DA4F9200E9DDC1 /* Info.plist */,
@@ -202,6 +205,7 @@
 				1C08620419DA50DE00E9DDC1 /* SagradaFamilia.jpeg in Resources */,
 				1CD2E8BE19DA6D2E00FE65D3 /* AlbertEinsteinStamp.jpg in Resources */,
 				1C0861EE19DA4F9200E9DDC1 /* LaunchScreen.xib in Resources */,
+				1C85178419DBA3AD00B23907 /* MenuImage.jpg in Resources */,
 				1C0861EB19DA4F9200E9DDC1 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
